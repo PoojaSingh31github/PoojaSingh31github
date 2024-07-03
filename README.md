@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Coding Gif" width="500"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Girl Coding Gif" width="500"/>
 </p>
 
 - 🌱 I’m currently learning **DSA, Python**
