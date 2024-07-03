@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojasingh31github&show_icons=true&locale=en&layout=compact" alt="poojasingh31github" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojasingh31github&show_icons=true&locale=en&layout=compact&theme=radical" alt="poojasingh31github" />
 </p>
 
 <p align="center">
