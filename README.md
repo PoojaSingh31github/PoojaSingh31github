@@ -101,7 +101,7 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojasingh31github&theme=radical&show_icons=true&count_private=true&border=white&include_all_commits=true" alt="GitHub Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojasingh31github&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
